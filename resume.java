@@ -21,7 +21,7 @@ class resume{
     System.out.println("---------------------------------ACADAMIC QUALIFICATION---------------------------");
     System.out.println("Sr.no          Class        Board/University       Year           DIVISION/Percentage");
     System.out.println("1              High School        M.P. Board           2017            91.1%");
-    System.out.println("2              Higher secondary   M.P. Board           2020            83%");
+    System.out.println("2              Higher secondary   M.P. Board           2019            83%");
     System.out.println("3              B.E.(CSE)          UIT BU               2020-2024       Running");
     System.out.println("____________________________");
     System.out.println("____________________________");
